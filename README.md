@@ -13,28 +13,28 @@ the purpose of this practical task is to demonstrate the ability to document sys
  * System type: Real machine
  * Processor: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
  * RAM: 8.00GB
-*Screenshot: ![System Specs]
+*Screenshot: ![System Specs](screenshots/Figur 1_System Specifications.png)
 
 ---
 
 ## 2. Network Status Verification
 - Verified connectivity using 'ping google.com' in Command Prompt.
 - Successful replies confirmed active internet connection.
-*Screenshot: ![Network Status]
+*Screenshot: ![Network Status](screenshots/Figure 2_Network Status Verification.png)
 
  ---
 
 ## 3. Simulated Issue
  - Disabled the network adapter to simulate internet disconnection
  - Running 'ping google.com' resulted in failure, confirming loss of connectivity.
-*Screenshot: ![Disconnected]
+*Screenshot: ![Disconnected](screenshots/Figure 3_Simulated Issue.png)
 
 ---
 
 ## 4. Resolution
 - Re-enabled the network adapter
 - Running 'ping google.com' again showed successful replies, confirming restored connectivity
-*Screenshot: ![Restored]
+*Screenshot: ![Restored](screenshots/Figure 4_Resoltions.png)
 
 ---
 
